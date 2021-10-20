@@ -87,11 +87,11 @@ params:
         subtitle: My first work in R
         title: Started from the bottom...
         url: blogs/LBS_ppa
-      - image: pic03.jpg
+      - image: ocean.jpg
         subtitle: Our latest data analysis in R
         title: ...now we're here!
         url: blogs/last_project
-      - image: ocean.jpg
+      - image: dark_ocean.jpg
         subtitle: ...for all aspects of life
         title: Some inspirations 
         url: blogs/ipsum
