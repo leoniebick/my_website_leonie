@@ -6,7 +6,7 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Show content
+    buttonText: Continue
     subtitle: Data analytics project
     title: Hi, my name is Leonie
   blog: {}
@@ -54,23 +54,23 @@ params:
         url: https://www.github.com/leoniebick/
       - icon: fa-linkedin
         label: LinkedIn
-        url: linkedin.com/in/leonie-bick
+        url: https://linkedin.com/in/leonie-bick
   image: ''
   name: Leonie Bick
   navigation:
     button1:
-      - name: Get Started
-        url: blogs
+      - name: Contact me
+        url: blogs/contact_form
     button2:
-      - name: Log In
-        url: ''
+      - name: All content
+        url: blogs
     links:
       - name: Home
         url: ''
       - name: Personal
-        url: blogs
+        url: blogs/about_me
       - name: Professional
-        url: blogs/ipsum
+        url: blogs/professional_experience
       #- name: Elements
       #  url: elements.html
     menu: Menu
@@ -79,32 +79,32 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: lbs.jpg
-        subtitle: Biography
+      - image: cloud-sky-pink-blue.jpg
+        subtitle: CLick here to find out more about me
         title: About me
-        url: blogs/aliquam
+        url: blogs/about_me
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Risk Return of DJIA
-        url: blogs/risk_return
+        subtitle: Analysis of Mutual Fund Performance in Excel
+        title: My work
+        url: blogs/mututal_funds
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: Data Analyses with R
+        title: Some more of my work
         url: blogs/magna
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
         url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+     # - image: pic05.jpg
+      #  subtitle: Ipsum Dolor Sit Amet
+       # title: Consequat
+        #url: blogs/ipsum
+      #- image: pic06.jpg
+       # subtitle: Feugiat Amet Tempus
+        #title: Etiam
+        #url: blogs/ipsum
   two:
-    buttonText: Get Started
+    buttonText: Some of my favorite memes!
     enable: yes
     subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
       \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
@@ -112,5 +112,5 @@ params:
       pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
       Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
       amet pharetra et feugiat tempus."
-    title: Massa libero
+    title: Some last words
     url: blogs
