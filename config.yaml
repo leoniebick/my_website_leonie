@@ -83,17 +83,17 @@ params:
         subtitle: CLick here to find out more about me
         title: About me
         url: blogs/about_me
-      - image: pic02.jpg
-        subtitle: Analysis of Mutual Fund Performance in Excel
-        title: My work
-        url: blogs/mututal_funds
+      - image: copenhagen.jpg
+        subtitle: My first work in R
+        title: Started from the bottom...
+        url: blogs/LBS_ppa
       - image: pic03.jpg
-        subtitle: Data Analyses with R
-        title: Some more of my work
-        url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        subtitle: Our latest data analysis in R
+        title: ...now we're here!
+        url: blogs/last_project
+      - image: ocean.jpg
+        subtitle: ...for all aspects of life
+        title: Some inspirations 
         url: blogs/ipsum
      # - image: pic05.jpg
       #  subtitle: Ipsum Dolor Sit Amet
@@ -104,7 +104,7 @@ params:
         #title: Etiam
         #url: blogs/ipsum
   two:
-    buttonText: Some of my favorite memes!
+    buttonText: Pssssttttt!
     enable: yes
     subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
       \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque

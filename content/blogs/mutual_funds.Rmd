@@ -13,7 +13,11 @@ title: Analysis of Mutual Fund Returns
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library("readxl")
+fund_returns<-read_excel("/Users/leoniesophiebick/Documents/Maastricht UM/Investment Analysis/Listed Equity Case B._xlsx.xlsx")
+
+head(fund_returns)
 ```
 
 ## R Markdown
