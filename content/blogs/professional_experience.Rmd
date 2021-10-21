@@ -12,13 +12,11 @@ slug: professional_experience # slug is the shorthand URL address... no spaces p
 title: My Professional Experiences and Development 
 ---
 
-```{r setup, include=FALSE}
-
-```
-
 ## Overview 
 
-knitr::include_graphics("/img/CV.jpg",error =FALSE)
+```
+knitr::include_graphics("/img/CV.jpeg",error =FALSE)
+```
 
 ## University Education
 
@@ -42,10 +40,4 @@ financial sector.
 
 ## Other Extracurricular Activities
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
