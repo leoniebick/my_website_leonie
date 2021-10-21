@@ -94,7 +94,7 @@ params:
       - image: dark_ocean.jpg
         subtitle: Some things I like 
         title: Moodboard 
-        url: post/pics
+        url: blogs/pics
      # - image: pic05.jpg
       #  subtitle: Ipsum Dolor Sit Amet
        # title: Consequat
