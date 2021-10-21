@@ -12,11 +12,9 @@ slug: professional_experience # slug is the shorthand URL address... no spaces p
 title: My Professional Experiences and Development 
 ---
 
-## Overview 
+You can download my CV [here](https://drive.google.com/file/d/1SlU0-fEHOff9YvV6-2ZSHs3b34jlrIgF/view?usp=sharing).
 
-```{r}
-knitr::include_graphics("/img/cv.jpg",error =FALSE)
-```
+
 
 ## University Education
 
@@ -33,11 +31,5 @@ of information to broaden my knowledge about finance, for example as an active
 member of the association Sigma Finance. To confirm this interest in finance and 
 to gain practical insights, I completed internships in several areas of the 
 financial sector.
-
-## Internships
-
-
-
-## Other Extracurricular Activities
 
 
