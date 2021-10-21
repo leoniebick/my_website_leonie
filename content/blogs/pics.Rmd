@@ -11,62 +11,62 @@ slug: pics
 title: Moodboard
 ---
 
-```{r setup, include=FALSE}
-library(knitr)
-knitr::include_graphics("/img/111.JPG",error =FALSE)
+```{r setup, message=FALSE, echo=FALSE}
+library(here)
+knitr::include_graphics("/img/111.jpg",error =FALSE)
 ```
 
 
-```{r , include=FALSE}
+```{r , message=FALSE, echo=FALSE}
 knitr::include_graphics("/img/121.JPG",error =FALSE)
 ```
 
 
-```{r d, include=FALSE}
-knitr::include_graphics("/img/131.JPG",error =FALSE)
+```{r d, message=FALSE, echo=FALSE}
+#knitr::include_graphics("/img/131.JPG",error =FALSE)
 ```
 
 
-```{r s, include=FALSE}
-knitr::include_graphics("/img/222.JPG",error =FALSE)
+```{r s, message=FALSE, echo=FALSE}
+#knitr::include_graphics("/img/222.JPG",error =FALSE)
 ```
 
 
-```{r e, include=FALSE}
+```{r e, message=FALSE, echo=FALSE}
 knitr::include_graphics("/img/333.JPG",error =FALSE)
 ```
 
 
-```{r t, include=FALSE}
+```{r t, message=FALSE, echo=FALSE}
 knitr::include_graphics("/img/444.JPG",error =FALSE)
 ```
 
 
-```{r u, include=FALSE}
+```{r u, message=FALSE, echo=FALSE}
 knitr::include_graphics("/img/555.JPG",error =FALSE)
 ```
 
 
-```{r v, include=FALSE}
+```{r v, message=FALSE, echo=FALSE}
 knitr::include_graphics("/img/666.JPG",error =FALSE)
 ```
 
 
-```{r j, include=FALSE}
+```{r j, message=FALSE, echo=FALSE}
 knitr::include_graphics("/img/777.JPG",error =FALSE)
 ```
 
 
-```{r l, include=FALSE}
+```{r l, message=FALSE, echo=FALSE}
 knitr::include_graphics("/img/888.jpg",error =FALSE)
 ```
 
 
-```{r p, include=FALSE}
-knitr::include_graphics("/img/999.JPG",error =FALSE)
+```{r p, message=FALSE, echo=FALSE}
+knitr::include_graphics("/img/999.jpg",error =FALSE)
 ```
 
 
-```{r q, include=FALSE}
+```{r q, message=FALSE, echo=FALSE}
 knitr::include_graphics("/img/1010.JPG",error =FALSE)
 ```
