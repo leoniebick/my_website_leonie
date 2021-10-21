@@ -7,8 +7,8 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Continue
-    subtitle: Data analytics project
-    title: Hi, my name is Leonie
+    subtitle: Welcome to my blog
+    title: Hi, my name is Leonie.
   blog: {}
   contact:
     address:
@@ -58,9 +58,9 @@ params:
   image: ''
   name: Leonie Bick
   navigation:
-    button1:
-      - name: Contact me
-        url: blogs/contact_form
+    #button1:
+    #  - name: Contact me
+     #   url: blogs/contact_form
     button2:
       - name: All content
         url: blogs
@@ -94,7 +94,7 @@ params:
       - image: dark_ocean.jpg
         subtitle: What defines me
         title: My skills and values 
-        url: blogs/ipsum
+        url: blogs/skills_values
      # - image: pic05.jpg
       #  subtitle: Ipsum Dolor Sit Amet
        # title: Consequat
