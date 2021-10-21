@@ -13,17 +13,20 @@ title: My Professional Experience
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+
 ```
 
 ## Overview 
 
-![Curriculum Vitae](/Users/leoniesophiebick/Documents/AA LBS/Data Analytics/my_website_leonie/themes/forty/static/img/CV.jpg)
+![Curriculum Vitae](/Users/leoniesophiebick/Documents/AA LBS/Data Analytics/my_website_leonie/themes/forty/static/img/CV.jpeg)
 
 ## University Education
 
 For my undergraduate studies, I pursued the degree program BSc International 
-Business at Maastricht University.
+Business at Maastricht University. Following this general management degree for 
+Bachelors, I decided to pursue a more specailized finance degree for my Masters, 
+which lead me to join the Masters in FInancial Anlaysis at London Business
+School.
 
 ## Internships
 
