@@ -86,7 +86,7 @@ params:
       - image: ocean.jpg
         subtitle: My first work in R
         title: Started from the bottom...
-        url: blogs/lbs_ppa
+        url: blogs/magna
       - image: clouds_above.jpg
         subtitle: Our latest data analysis in R
         title: ...now we're here!

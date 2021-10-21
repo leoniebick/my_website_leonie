@@ -12,17 +12,33 @@ slug: about_me # slug is the shorthand URL address... no spaces plz
 title: About Me
 ---
 
-## About Me
+# About Me
 
 Welcome to my Website! Whatever brought you here, I am glad you made it. 
 On these pages, I will give you a few insights into my personal and professional life.
 Enjoy the read!
 
+## Quick Facts
+
+**Name:** Leonie Sophie Bick
+**Date of Birth:** 15.09.1998
+**Place of Birth:** Cologne, Germany
+**Nationality:** German
+
 ## Fun Facts 
 
 ### What are your top three bucket list items?
 
+1. Being remembered
+2. Seeing the 7 wonders of the world
+3. Diving with sharks
+
 ### What is your favorite trip of all time?
+
+My favorite trip of all time was my travel to Sri Lanka. Three things I loved 
+about the country were, firstly, the versatility of the environment, ranging from
+beaches over tea plantations to mountains. Secondly, I was fascinated by the 
+traditional healing methods (Ayuveda) 
 
 ### What is a quote or saying that has changed your thinking?
 
