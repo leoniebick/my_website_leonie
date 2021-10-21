@@ -75,7 +75,7 @@ params:
       #  url: elements.html
     menu: Menu
     subtitle: 
-    title: Forty
+    title: Leonie
   tiles:
     enable: yes
     showcase:
@@ -86,7 +86,7 @@ params:
       - image: ocean.jpg
         subtitle: My first work in R
         title: Started from the bottom...
-        url: blogs/LBS_ppa
+        url: blogs/lbs_ppa
       - image: clouds_above.jpg
         subtitle: Our latest data analysis in R
         title: ...now we're here!

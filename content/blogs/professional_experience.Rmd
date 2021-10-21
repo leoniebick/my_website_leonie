@@ -18,7 +18,7 @@ title: My Professional Experiences and Development
 
 ## Overview 
 
-![Curriculum Vitae](/Users/leoniesophiebick/Documents/AA LBS/Data Analytics/my_website_leonie/themes/forty/static/img/CV.jpeg)
+knitr::include_graphics("/img/CV.jpg",error =FALSE)
 
 ## University Education
 
