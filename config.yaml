@@ -29,8 +29,8 @@ params:
   custom_js: []
   description: Your description
   error404:
-    heading: Page couldn't be found
-    text: Please visit [this page](/)
+    heading: I guess I messed up
+    text: Just look at a different [section](https://leonie-bick-98.netlify.app)
   favicon: favicon.ico
   footer:
     copyright: Leonie Bick
