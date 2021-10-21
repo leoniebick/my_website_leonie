@@ -11,6 +11,11 @@ slug: pics
 title: Moodboard
 ---
 
+```{r q, message=FALSE, echo=FALSE}
+knitr::include_graphics("/img/1010.JPG",error =FALSE)
+```
+
+
 ```{r setup, message=FALSE, echo=FALSE}
 library(here)
 knitr::include_graphics("/img/111.jpg",error =FALSE)
@@ -66,7 +71,3 @@ knitr::include_graphics("/img/888.jpg",error =FALSE)
 knitr::include_graphics("/img/999.jpg",error =FALSE)
 ```
 
-
-```{r q, message=FALSE, echo=FALSE}
-knitr::include_graphics("/img/1010.JPG",error =FALSE)
-```
