@@ -28,12 +28,12 @@ My name is **Leonie** and I was born on 15.09.1998 in Cologne, Germany. My paren
 ## Hobbies
 
 I have a lot of different interests and enjoy a lot of things:
-*  I have always had a creative side and when I was young, I used to draw and paint a lot and even visit art courses in my freetime. 
-*  I like music and played various instruments growing up, amongst others I played the the piano for 8 years. 
-*  While growing up, I did various sports on different levels:
-  +  My whole life, I have and still do play tennis. I enjoy it a lot and my favorite tennis players are Rafael Nadal and Roger Federer.
-  +  When I was little, I did trampoline for 4 years on a competitive level.
-  +  I ecentually quit trampoline when I was 11 to start allstar cheerleading. NOT on the side of football games. Here a demonstration what allstar cheerleading is: [linked phase](https://www.youtube.com/watch?v=a77FjRD58iQ)
+- I have always had a creative side and when I was young, I used to draw and paint a lot and even visit art courses in my freetime. 
+- I like music and played various instruments growing up, amongst others I played the the piano for 8 years. 
+- While growing up, I did various sports on different levels: 
+  - My whole life, I have and still do play tennis. I enjoy it a lot and my favorite tennis players are Rafael Nadal and Roger Federer. /
+  - When I was little, I did trampoline for 4 years on a competitive level.
+  - I ecentually quit trampoline when I was 11 to start allstar cheerleading. NOT on the side of football games. Here a demonstration what allstar cheerleading is: [linked phase](https://www.youtube.com/watch?v=a77FjRD58iQ) 
 
 ## Education
 
@@ -161,7 +161,7 @@ What can you say about the relationship shown above? Again, don't just say what'
 **Histogram Brexit:**
 
 
-- Contituencies with a percentage of votes in favor of Brexit of between 50-60% were most common
+- Constituencies with a percentage of votes in favor of Brexit of between 50-60% were most common
 - No constituencies voted 0% or 100% for Brexit
 - Slightly skewed to the left which means the center of the distribution is higher than 50%. This is accord with the outcome of the votum.
 

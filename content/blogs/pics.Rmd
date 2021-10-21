@@ -1,0 +1,71 @@
+---
+categories:
+- ""
+- ""
+date: "2021-10-21T21:28:43-05:00"
+description: "Some of my favorite pics I have taken"
+draft: false
+#image: dark_ocean.jpg
+keywords: ""
+slug: pics
+title: Moodboard
+---
+
+```{r setup, include=FALSE}
+knitr::include_graphics("/img/111.jpg",error =FALSE)
+```
+
+
+```{r setup, include=FALSE}
+knitr::include_graphics("/img/121.jpg",error =FALSE)
+```
+
+
+```{r setup, include=FALSE}
+knitr::include_graphics("/img/131.jpg",error =FALSE)
+```
+
+
+```{r setup, include=FALSE}
+knitr::include_graphics("/img/222.jpg",error =FALSE)
+```
+
+
+```{r setup, include=FALSE}
+knitr::include_graphics("/img/333.jpg",error =FALSE)
+```
+
+
+```{r setup, include=FALSE}
+knitr::include_graphics("/img/444.jpg",error =FALSE)
+```
+
+
+```{r setup, include=FALSE}
+knitr::include_graphics("/img/555.jpg",error =FALSE)
+```
+
+
+```{r setup, include=FALSE}
+knitr::include_graphics("/img/666.jpg",error =FALSE)
+```
+
+
+```{r setup, include=FALSE}
+knitr::include_graphics("/img/777.jpg",error =FALSE)
+```
+
+
+```{r setup, include=FALSE}
+knitr::include_graphics("/img/888.jpg",error =FALSE)
+```
+
+
+```{r setup, include=FALSE}
+knitr::include_graphics("/img/999.jpg",error =FALSE)
+```
+
+
+```{r setup, include=FALSE}
+knitr::include_graphics("/img/1010.jpg",error =FALSE)
+```

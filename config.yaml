@@ -7,7 +7,7 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Continue
-    subtitle: Welcome to my blog
+    subtitle: Welcome to my life
     title: Hi, my name is Leonie.
   blog: {}
   contact:
@@ -74,7 +74,7 @@ params:
       #- name: Elements
       #  url: elements.html
     menu: Menu
-    subtitle: 
+    subtitles: Bick
     title: Leonie
   tiles:
     enable: yes
@@ -92,9 +92,9 @@ params:
         title: ...now we're here!
         url: blogs/last_project
       - image: dark_ocean.jpg
-        subtitle: What defines me
-        title: My skills and values 
-        url: blogs/skills_values
+        subtitle: Some things I like 
+        title: Moodboard 
+        url: blogs/pics
      # - image: pic05.jpg
       #  subtitle: Ipsum Dolor Sit Amet
        # title: Consequat

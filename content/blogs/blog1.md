@@ -11,7 +11,8 @@ slug: skills_values
 title: My skills and values
 ---
 
-## Skills I acquired through personal and professional experiences
+# Some of my favorite pics
 
-
-## The values that guide all of my actions
+```{r}
+knitr::include_graphics("/img/singa.jpg",error =FALSE)
+```
