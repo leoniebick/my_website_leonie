@@ -62,12 +62,12 @@ knitr::include_graphics("/img/777.JPG",error =FALSE)
 ```
 
 
-```{r l, message=FALSE, echo=FALSE}
-knitr::include_graphics("/img/888.jpg",error =FALSE)
+```{r p, message=FALSE, echo=FALSE}
+knitr::include_graphics("/img/999.jpg",error =FALSE)
 ```
 
 
-```{r p, message=FALSE, echo=FALSE}
-knitr::include_graphics("/img/999.jpg",error =FALSE)
+```{r l, message=FALSE, echo=FALSE}
+knitr::include_graphics("/img/888.jpg",error =FALSE)
 ```
 
