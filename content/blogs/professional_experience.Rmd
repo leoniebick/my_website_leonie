@@ -14,7 +14,7 @@ title: My Professional Experiences and Development
 
 ## Overview 
 
-```
+```{r}
 knitr::include_graphics("/img/cv.jpg",error =FALSE)
 ```
 
