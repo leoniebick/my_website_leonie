@@ -12,26 +12,19 @@ slug: about_me # slug is the shorthand URL address... no spaces plz
 title: About Me
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## About Me
 
-Welcome to my Website! Whatever brought you here, I am glad you made it. /
-On these pages, I will give you a few insights into my personal and professional life./
+Welcome to my Website! Whatever brought you here, I am glad you made it. 
+On these pages, I will give you a few insights into my personal and professional life.
 Enjoy the read!
 
-```{r cars}
-summary(cars)
-```
+## Fun Facts 
 
-## Including Plots
+### What are your top three bucket list items?
 
-You can also embed plots, for example:
+### What is your favorite trip of all time?
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+### What is a quote or saying that has changed your thinking?
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
